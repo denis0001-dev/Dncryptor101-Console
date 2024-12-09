@@ -1,3 +1,5 @@
+package ru.morozovit.dncryptor101.base
+
 import kotlin.math.abs
 
 /**

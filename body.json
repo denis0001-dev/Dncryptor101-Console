@@ -1,0 +1,18 @@
+{
+  "modelUri": "gpt://b1g169s6edl2jluerhop/yandexgpt-lite",
+  "completionOptions": {
+    "stream": false,
+    "temperature": 0.1,
+    "maxTokens": "1000"
+  },
+  "messages": [
+    {
+      "role": "system",
+      "text": "Переведи текст"
+    },
+    {
+      "role": "user",
+      "text": "To be, or not to be: that is the question."
+    }
+  ]
+}

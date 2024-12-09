@@ -1,3 +1,5 @@
+import ru.morozovit.dncryptor101.base.InfiniteList
+import ru.morozovit.dncryptor101.base.Solver
 import kotlin.test.Test
 import kotlin.test.assertContains
 import kotlin.test.assertEquals
